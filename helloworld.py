@@ -1,2 +1,2 @@
 Print ("Hello World")
-print ("updated by test team")
+print ("released product")
